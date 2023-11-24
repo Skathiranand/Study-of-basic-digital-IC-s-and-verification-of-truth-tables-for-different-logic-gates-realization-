@@ -1,12 +1,22 @@
-![EXP1(3)](https://github.com/Skathiranand/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147141136/b55d6bc4-2740-4883-85ca-1ee56e9383df)# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
- AIM:
+Name : S.kathir Anand
+
+Register No : 23013711
+
+# Ex No:1 Study of basic digital IC s and verification of truth tables for different logic gates realization
+
+# AIM:
+ 
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
-Equipments Required:
+# Equipments Required:
+
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
-Introduction
+
+# Theory
+ 
+# Introduction
+
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
 
 AND gate
@@ -16,6 +26,7 @@ NAND gate
 NOR gate
 Ex-OR gate
 Ex-NOR gate
+
 1) AND gate
 The AND gate is an electronic circuit that gives a high output (1) only if all its inputs are high. A dot (.) is used to show the AND operation i.e. A.B or can be written as AB
 
@@ -49,25 +60,32 @@ Y= A⊕B
 7) Ex-NOR gate
 The 'Exclusive-NOR' gate circuit does the opposite to the EX-OR gate. It will give a low output if either, but not both of its two inputs are high. The symbol is an EX-OR gate with a small circle on the output. The small circle represents inversion.
 
-Y= A⊕B
+# Procedure
 
-Procedure
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
+
+
+# Program:
+
 ![EXP1(1)](https://github.com/Skathiranand/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147141136/69bf6af0-cf91-476e-89cb-33ed12619ba8)
-/*
- RTL realization
+
+# RTL realization
+ 
  ![EXP1(2)](https://github.com/Skathiranand/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147141136/45394f71-3a2c-4d7c-9446-2bc56cdca909)
-*/
-Logic symbol & Truthtable
+
+# Truthtable
+
 ![EXP1(3)](https://github.com/Skathiranand/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147141136/7db2f406-b997-468f-805a-a4f8adf4a41c)
-Timing Diagram
+
+# Timing Diagram
+
 ![EXP1(4)](https://github.com/Skathiranand/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/147141136/9f9967da-7cf0-48ac-be33-4fc542497243)
 
-Result:
+# Result:
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
